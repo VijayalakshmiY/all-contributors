@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mrkesavan",
+      "name": "mrkesavan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17161834?v=4",
+      "profile": "https://github.com/mrkesavan",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "demo",
+  "projectOwner": "VijayalakshmiY",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
