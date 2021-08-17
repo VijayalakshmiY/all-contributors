@@ -14,7 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mrkesavan"><img src="https://avatars.githubusercontent.com/u/17161834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mrkesavan</b></sub></a><br /><a href="https://github.com/VijayalakshmiY/demo/commits?author=mrkesavan" title="Code">💻</a> <a href="#design-mrkesavan" title="Design">🎨</a> <a href="https://github.com/VijayalakshmiY/demo/commits?author=mrkesavan" title="Documentation">📖</a> <a href="#talk-mrkesavan" title="Talks">📢</a></td>
-    <td align="center"><a href="https://github.com/Divyenth-K"><img src="https://avatars.githubusercontent.com/u/75723790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divyenth Krishnamurthy</b></sub></a><br /><a href="#content-Divyenth-K" title="Content">🖋</a> <a href="#ideas-Divyenth-K" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-Divyenth-K" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Divyenth-K"><img src="https://avatars.githubusercontent.com/u/75723790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divyenth Krishnamurthy</b></sub></a><br /><a href="#content-Divyenth-K" title="Content">🖋</a> <a href="#ideas-Divyenth-K" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-Divyenth-K" title="Design">🎨</a> <a href="https://github.com/VijayalakshmiY/demo/commits?author=Divyenth-K" title="Code">💻</a></td>
   </tr>
 </table>
 
